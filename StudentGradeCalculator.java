@@ -1,3 +1,6 @@
+// Task 2 by CodSoft 
+// Student Grade Calculator written by Gautami Shetty
+
 import java.util.ArrayList;
 import java.util.Scanner;
 
