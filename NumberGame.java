@@ -1,3 +1,6 @@
+// Task 1 by CodSoft 
+//Number game written by Gautami Shetty
+
 import java.lang.Math;
 import java.util.ArrayList;
 import java.util.Scanner;
